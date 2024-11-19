@@ -9,7 +9,7 @@ Before you begin, ensure you have installed:
 - [MongoDB](https://www.mongodb.com/try/download/community)
 - [Postman](https://www.postman.com/downloads/) (recommended for API testing)
 
-  **Render Deployes url** : https://transaction-management-0f32.onrender.com
+**Render Deployed url** : https://transaction-management-0f32.onrender.com
 
 ## Setup Instructions
 
